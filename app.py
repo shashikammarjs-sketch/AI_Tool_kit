@@ -168,7 +168,7 @@ cards = [
         "concepts": ["LLM", "NLP", "Prompting"],
         "badge": "easy",
         "grade": "Grades 8–10",
-        "page": "pages/1_🤖_AI_Chatbot.py",
+        "page": "1_🤖_AI_Chatbot.py",
     },
     {
         "emoji": "🔍",
@@ -177,7 +177,7 @@ cards = [
         "concepts": ["CNN", "Deep Learning", "Confidence"],
         "badge": "medium",
         "grade": "Grades 9–10",
-        "page": "pages/2_🔍_Image_Classifier.py",
+        "page": "2_🔍_Image_Classifier.py",
     },
     {
         "emoji": "📊",
@@ -186,7 +186,7 @@ cards = [
         "concepts": ["NLP", "Text Mining", "Classification"],
         "badge": "easy",
         "grade": "Grades 8–9",
-        "page": "pages/3_📊_Sentiment_Analyzer.py",
+        "page": "3_📊_Sentiment_Analyzer.py",
     },
     {
         "emoji": "🌸",
@@ -195,7 +195,7 @@ cards = [
         "concepts": ["Supervised ML", "Decision Tree", "Features"],
         "badge": "medium",
         "grade": "Grades 9–10",
-        "page": "pages/4_🌸_Smart_Predictor.py",
+        "page": "4_🌸_Smart_Predictor.py",
     },
 ]
 
